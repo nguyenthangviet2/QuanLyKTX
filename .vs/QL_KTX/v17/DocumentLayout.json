@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\QL_KTX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|C:\\Users\\Admin\\Downloads\\QL_KTX\\ql_ktx\\ql_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|solutionrelative:ql_ktx\\ql_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|C:\\Users\\Admin\\Downloads\\QL_KTX\\ql_ktx\\tinhtrangphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|solutionrelative:ql_ktx\\tinhtrangphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|C:\\Users\\Admin\\Downloads\\QL_KTX\\ql_ktx\\ql_phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|solutionrelative:ql_ktx\\ql_phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|c:\\users\\admin\\downloads\\ql_ktx\\ql_ktx\\ql_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|solutionrelative:ql_ktx\\ql_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|c:\\users\\admin\\downloads\\ql_ktx\\ql_ktx\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|solutionrelative:ql_ktx\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|c:\\users\\admin\\downloads\\ql_ktx\\ql_ktx\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|solutionrelative:ql_ktx\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|c:\\users\\admin\\downloads\\ql_ktx\\ql_ktx\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|solutionrelative:ql_ktx\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|c:\\users\\admin\\downloads\\ql_ktx\\ql_ktx\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|solutionrelative:ql_ktx\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|c:\\users\\admin\\downloads\\ql_ktx\\ql_ktx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|solutionrelative:ql_ktx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|c:\\users\\admin\\downloads\\ql_ktx\\ql_ktx\\dongtienphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|solutionrelative:ql_ktx\\dongtienphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|c:\\users\\admin\\downloads\\ql_ktx\\ql_ktx\\tinhtrangphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|solutionrelative:ql_ktx\\tinhtrangphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|c:\\users\\admin\\downloads\\ql_ktx\\ql_ktx\\ql_phong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AD34E3-F1DC-44C1-8E39-B30E78685BF7}|QL_KTX\\QL_KTX.csproj|solutionrelative:ql_ktx\\ql_phong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangKy.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\DangKy.cs",
+              "RelativeDocumentMoniker": "QL_KTX\\DangKy.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\DangKy.cs",
+              "RelativeToolTip": "QL_KTX\\DangKy.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwBwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:28:47.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QL_KTX\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\DangNhap.cs [Design]",
+              "RelativeToolTip": "QL_KTX\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:38:59.2Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TinhTrangPhong.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\TinhTrangPhong.cs",
+              "RelativeDocumentMoniker": "QL_KTX\\TinhTrangPhong.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\TinhTrangPhong.cs",
+              "RelativeToolTip": "QL_KTX\\TinhTrangPhong.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAlwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:10:52.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TinhTrangPhong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\TinhTrangPhong.cs",
+              "RelativeDocumentMoniker": "QL_KTX\\TinhTrangPhong.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\TinhTrangPhong.cs [Design]",
+              "RelativeToolTip": "QL_KTX\\TinhTrangPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:05:21.399Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QL_Phong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\QL_Phong.cs",
+              "RelativeDocumentMoniker": "QL_KTX\\QL_Phong.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\QL_Phong.cs [Design]",
+              "RelativeToolTip": "QL_KTX\\QL_Phong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:50:17.398Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QL_SinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\QL_SinhVien.cs",
+              "RelativeDocumentMoniker": "QL_KTX\\QL_SinhVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\QL_SinhVien.cs [Design]",
+              "RelativeToolTip": "QL_KTX\\QL_SinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:49:42.092Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QL_SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\QL_SinhVien.cs",
+              "RelativeDocumentMoniker": "QL_KTX\\QL_SinhVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\QL_SinhVien.cs",
+              "RelativeToolTip": "QL_KTX\\QL_SinhVien.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:23:07.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QL_KTX\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\DangNhap.cs",
+              "RelativeToolTip": "QL_KTX\\DangNhap.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:10:30.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\Program.cs",
+              "RelativeDocumentMoniker": "QL_KTX\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\Program.cs",
+              "RelativeToolTip": "QL_KTX\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:22:33.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DangKy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\DangKy.cs",
+              "RelativeDocumentMoniker": "QL_KTX\\DangKy.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\DangKy.cs [Design]",
+              "RelativeToolTip": "QL_KTX\\DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:24:28.43Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dongtienphong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\Dongtienphong.cs",
+              "RelativeDocumentMoniker": "QL_KTX\\Dongtienphong.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\Dongtienphong.cs [Design]",
+              "RelativeToolTip": "QL_KTX\\Dongtienphong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:17:16.852Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QL_Phong.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\QL_Phong.Designer.cs",
+              "RelativeDocumentMoniker": "QL_KTX\\QL_Phong.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\QL_Phong.Designer.cs",
+              "RelativeToolTip": "QL_KTX\\QL_Phong.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:51:31.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
