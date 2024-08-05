@@ -37,5 +37,10 @@ namespace QL_KTX
             f.Show();
             this.Hide();
         }
+
+        private void btthoat_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }

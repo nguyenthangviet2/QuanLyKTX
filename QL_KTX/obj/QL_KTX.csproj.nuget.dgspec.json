@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\QL_KTX.csproj": {}
+    "C:\\Users\\Admin\\Documents\\QL_KTX\\QL_KTX\\QL_KTX.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\QL_KTX.csproj": {
+    "C:\\Users\\Admin\\Documents\\QL_KTX\\QL_KTX\\QL_KTX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\QL_KTX.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\QL_KTX\\QL_KTX\\QL_KTX.csproj",
         "projectName": "QL_KTX",
-        "projectPath": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\QL_KTX.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\QL_KTX\\QL_KTX\\QL_KTX.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Downloads\\QL_KTX\\QL_KTX\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\QL_KTX\\QL_KTX\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

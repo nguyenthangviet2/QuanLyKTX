@@ -29,31 +29,32 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DangNhap));
             labelDN = new Label();
             labelMK = new Label();
             contextMenuStrip1 = new ContextMenuStrip(components);
             textBox1 = new TextBox();
             textBox2 = new TextBox();
-            buttonThoat = new Button();
             buttonDN = new Button();
             buttonDK = new Button();
+            btthoat = new Button();
             SuspendLayout();
             // 
             // labelDN
             // 
             labelDN.AutoSize = true;
-            labelDN.Location = new Point(55, 48);
+            labelDN.Location = new Point(48, 36);
             labelDN.Name = "labelDN";
-            labelDN.Size = new Size(59, 20);
+            labelDN.Size = new Size(47, 15);
             labelDN.TabIndex = 0;
             labelDN.Text = "Họ Tên:";
             // 
             // labelMK
             // 
             labelMK.AutoSize = true;
-            labelMK.Location = new Point(55, 115);
+            labelMK.Location = new Point(48, 86);
             labelMK.Name = "labelMK";
-            labelMK.Size = new Size(75, 20);
+            labelMK.Size = new Size(61, 15);
             labelMK.TabIndex = 1;
             labelMK.Text = "Mật Khẩu:";
             // 
@@ -65,33 +66,28 @@
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(152, 49);
+            textBox1.Location = new Point(133, 37);
+            textBox1.Margin = new Padding(3, 2, 3, 2);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(280, 27);
+            textBox1.Size = new Size(246, 23);
             textBox1.TabIndex = 3;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(152, 115);
+            textBox2.Location = new Point(133, 86);
+            textBox2.Margin = new Padding(3, 2, 3, 2);
             textBox2.Name = "textBox2";
-            textBox2.Size = new Size(280, 27);
+            textBox2.Size = new Size(246, 23);
             textBox2.TabIndex = 4;
-            // 
-            // buttonThoat
-            // 
-            buttonThoat.Location = new Point(384, 225);
-            buttonThoat.Name = "buttonThoat";
-            buttonThoat.Size = new Size(94, 29);
-            buttonThoat.TabIndex = 5;
-            buttonThoat.Text = "Thoát";
-            buttonThoat.UseVisualStyleBackColor = true;
-            buttonThoat.Click += buttonThoat_Click;
             // 
             // buttonDN
             // 
-            buttonDN.Location = new Point(257, 225);
+            buttonDN.BackgroundImage = Properties.Resources.icons8_login_26;
+            buttonDN.BackgroundImageLayout = ImageLayout.None;
+            buttonDN.Location = new Point(183, 127);
+            buttonDN.Margin = new Padding(3, 2, 3, 2);
             buttonDN.Name = "buttonDN";
-            buttonDN.Size = new Size(94, 29);
+            buttonDN.Size = new Size(113, 35);
             buttonDN.TabIndex = 6;
             buttonDN.Text = "Đăng nhập";
             buttonDN.UseVisualStyleBackColor = true;
@@ -99,26 +95,47 @@
             // 
             // buttonDK
             // 
-            buttonDK.Location = new Point(128, 225);
+            buttonDK.BackgroundImage = Properties.Resources.icons8_registration_26;
+            buttonDK.BackgroundImageLayout = ImageLayout.None;
+            buttonDK.Cursor = Cursors.Hand;
+            buttonDK.Location = new Point(101, 179);
+            buttonDK.Margin = new Padding(3, 2, 3, 2);
             buttonDK.Name = "buttonDK";
-            buttonDK.Size = new Size(94, 29);
+            buttonDK.Size = new Size(107, 35);
             buttonDK.TabIndex = 7;
             buttonDK.Text = "Đăng ký";
             buttonDK.UseVisualStyleBackColor = true;
             buttonDK.Click += buttonDK_Click;
             // 
+            // btthoat
+            // 
+            btthoat.BackgroundImage = Properties.Resources.icons8_logout_26;
+            btthoat.BackgroundImageLayout = ImageLayout.None;
+            btthoat.Cursor = Cursors.Hand;
+            btthoat.Location = new Point(284, 179);
+            btthoat.Margin = new Padding(3, 2, 3, 2);
+            btthoat.Name = "btthoat";
+            btthoat.Size = new Size(95, 38);
+            btthoat.TabIndex = 8;
+            btthoat.Text = "Thoát";
+            btthoat.UseVisualStyleBackColor = true;
+            btthoat.Click += btthoat_Click;
+            // 
             // DangNhap
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(490, 266);
+            BackColor = SystemColors.ActiveCaption;
+            ClientSize = new Size(460, 228);
+            Controls.Add(btthoat);
             Controls.Add(buttonDK);
             Controls.Add(buttonDN);
-            Controls.Add(buttonThoat);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
             Controls.Add(labelMK);
             Controls.Add(labelDN);
+            Icon = (Icon)resources.GetObject("$this.Icon");
+            Margin = new Padding(3, 2, 3, 2);
             Name = "DangNhap";
             Text = "DangNhap";
             ResumeLayout(false);
@@ -132,8 +149,8 @@
         private ContextMenuStrip contextMenuStrip1;
         private TextBox textBox1;
         private TextBox textBox2;
-        private Button buttonThoat;
         private Button buttonDN;
         private Button buttonDK;
+        private Button btthoat;
     }
 }

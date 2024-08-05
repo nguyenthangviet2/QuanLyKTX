@@ -7,9 +7,14 @@ namespace QL_KTX
             InitializeComponent();
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        
+
+        private void btthoat_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            Giaodien gd = new Giaodien();
+            this.Hide();
+            gd.FormClosed += (s, agrs) => this.Close();
+            gd.Show();
         }
     }
 }

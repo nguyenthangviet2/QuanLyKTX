@@ -17,17 +17,19 @@ namespace QL_KTX
             InitializeComponent();
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
 
         private void buttonDangKy_Click(object sender, EventArgs e)
         {
             DangNhap f = new DangNhap();
             f.Show();
             this.Hide();
+        }
 
+        private void btthoat_Click(object sender, EventArgs e)
+        {
+            DangNhap f = new DangNhap();
+            f.Show();
+            this.Hide();
         }
     }
 }

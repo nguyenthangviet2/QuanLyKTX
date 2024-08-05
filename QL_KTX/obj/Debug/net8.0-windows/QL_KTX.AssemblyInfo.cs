@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QL_KTX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc7e589ea17ebbd08c965757325921d6669c1336")]
 [assembly: System.Reflection.AssemblyProductAttribute("QL_KTX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QL_KTX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
