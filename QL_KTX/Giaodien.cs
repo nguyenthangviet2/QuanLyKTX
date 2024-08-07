@@ -65,5 +65,21 @@ namespace QL_KTX
             hd.FormClosed += (s, agrs) => this.Close();
             hd.Show();
         }
+
+        private void phòngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            TinhTrangPhong tt = new TinhTrangPhong();
+            this.Hide();
+            tt.FormClosed += (s, agrs) => this.Close();
+            tt.Show();
+        }
+
+        private void hợpĐồngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Hopdong hd = new Hopdong();
+            this.Hide();
+            hd.FormClosed += (s, agrs) => this.Close();
+            hd.Show();
+        }
     }
 }

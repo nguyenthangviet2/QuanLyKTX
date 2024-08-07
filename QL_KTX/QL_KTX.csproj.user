@@ -16,6 +16,9 @@
     <Compile Update="Hoadon.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Hopdong.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="QL_Phong.cs">
       <SubType>Form</SubType>
     </Compile>
